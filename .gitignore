@@ -1,0 +1,7 @@
+# Ignore Visual Studio specific files and folders
+.vs/
+*.vsidx
+*.user
+*.suo
+*.cache
+*.log

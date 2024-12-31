@@ -1,0 +1,15 @@
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\bin\Debug\net9.0\GeminiApp.Business.deps.json
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\bin\Debug\net9.0\GeminiApp.Business.dll
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\bin\Debug\net9.0\GeminiApp.Business.pdb
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\bin\Debug\net9.0\GeminiApp.Data.dll
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\bin\Debug\net9.0\GeminiApp.Data.pdb
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\obj\Debug\net9.0\GeminiApp.Business.csproj.AssemblyReference.cache
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\obj\Debug\net9.0\GeminiApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\obj\Debug\net9.0\GeminiApp.Business.AssemblyInfoInputs.cache
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\obj\Debug\net9.0\GeminiApp.Business.AssemblyInfo.cs
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\obj\Debug\net9.0\GeminiApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\obj\Debug\net9.0\GeminiAp.3FCD7498.Up2Date
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\obj\Debug\net9.0\GeminiApp.Business.dll
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\obj\Debug\net9.0\refint\GeminiApp.Business.dll
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\obj\Debug\net9.0\GeminiApp.Business.pdb
+C:\Users\sara fuss\Documents\GeminiApp\GeminiApp.Business\obj\Debug\net9.0\ref\GeminiApp.Business.dll
