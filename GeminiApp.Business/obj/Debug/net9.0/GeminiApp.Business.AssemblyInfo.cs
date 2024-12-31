@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeminiApp.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c980009c04bc579aaa3a4285875d0e370a2664d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68cdad4d782deeef70ac2cf88eeb3fdc2241456c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeminiApp.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeminiApp.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
