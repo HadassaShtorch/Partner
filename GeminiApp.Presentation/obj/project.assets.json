@@ -3575,11 +3575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sara fuss\\Documents\\GeminiApp\\GeminiApp.Presentation\\GeminiApp.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\sara fuss\\Music\\GeminiApp\\GeminiApp.Presentation\\GeminiApp.Presentation.csproj",
       "projectName": "GeminiApp.Presentation",
-      "projectPath": "C:\\Users\\sara fuss\\Documents\\GeminiApp\\GeminiApp.Presentation\\GeminiApp.Presentation.csproj",
+      "projectPath": "C:\\Users\\sara fuss\\Music\\GeminiApp\\GeminiApp.Presentation\\GeminiApp.Presentation.csproj",
       "packagesPath": "C:\\Users\\sara fuss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sara fuss\\Documents\\GeminiApp\\GeminiApp.Presentation\\obj\\",
+      "outputPath": "C:\\Users\\sara fuss\\Music\\GeminiApp\\GeminiApp.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3601,8 +3601,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\sara fuss\\Documents\\GeminiApp\\GeminiApp.Business\\GeminiApp.Business.csproj": {
-              "projectPath": "C:\\Users\\sara fuss\\Documents\\GeminiApp\\GeminiApp.Business\\GeminiApp.Business.csproj"
+            "C:\\Users\\sara fuss\\Music\\GeminiApp\\GeminiApp.Business\\GeminiApp.Business.csproj": {
+              "projectPath": "C:\\Users\\sara fuss\\Music\\GeminiApp\\GeminiApp.Business\\GeminiApp.Business.csproj"
             }
           }
         }
